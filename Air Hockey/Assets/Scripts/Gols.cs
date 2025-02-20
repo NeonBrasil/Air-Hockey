@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI; // Se quiser atualizar uma UI futuramente
+using UnityEngine.UI;
 
 public class Goal : MonoBehaviour
 {

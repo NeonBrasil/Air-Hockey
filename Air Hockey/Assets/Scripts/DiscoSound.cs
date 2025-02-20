@@ -13,7 +13,6 @@ public class DiscoSound : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        // Verifica se existe um som configurado antes de tocar
         if (hitSound != null && audioSource != null)
         {
             audioSource.PlayOneShot(hitSound);
