@@ -24,12 +24,13 @@ Este é um jogo de Air Hockey em 3D desenvolvido na Unity para a disciplina de J
     ```bash
     git clone https://github.com/NeonBrasil/Air-Hockey
     ```
-2. Abra o projeto na Unity.
+2. Abra o projeto na Unity 6.
 3. Compile e execute o jogo.
 
 ## Controles
-- **Mouse**: Controle a movimentação do "taco"
-- **Botão Esquerdo do Mouse**: Segure o botão esquerdo do mouse para controlar o "taco" e bater no disco
+- **Mouse**: Controle a movimentação do "taco";
+- **Botão Esquerdo do Mouse**: Segure o botão esquerdo do mouse para controlar o "taco" e bater no disco;
+- **Tecla "r"**: Reinicia o jogo caso aconteça algum bug.
 
 ## Contato
 Para mais informações, entre em contato pelo email: cayquecicarelli@gmail.com
